@@ -1,0 +1,6 @@
+Keypad + and - can be used for manual control of rotation
+Kepad Enter toggles auto rotation
+
+N cycles building being showcased
+
+Tab + Esc to quit game
